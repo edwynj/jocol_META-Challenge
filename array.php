@@ -33,5 +33,4 @@
 
     //print json record
     echo $jsondata . "\n";
-    // echo "\n";
 ?>
